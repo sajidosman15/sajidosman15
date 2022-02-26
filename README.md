@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **muhammad35-2660@diu.edu.bd**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MUldDhwE_rKyOb-m0urnNJ9YCRQfZJJO/view?usp=sharing](https://drive.google.com/file/d/1MUldDhwE_rKyOb-m0urnNJ9YCRQfZJJO/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1-e-PF1IFpZ9C1iRM_H9qcNjuJJBiiREH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
