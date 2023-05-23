@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidosman15&label=Profile%20views&color=0e75b6&style=flat" alt="sajidosman15" /> </p>
 
-- 🔭 I’m currently studying at **Daffodil International University**
+- 🔭 I completed my studies at the Department of **Software Engineering, Daffodil International University**
 
-- 🌱 I’m currently learning **C# with .NET framework.**
+- 🌱 I’m currently learning **SharePoint**
 
-- 📫 How to reach me **muhammad35-2660@diu.edu.bd**
+- 📫 How to reach me **sajidosman15@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1-e-PF1IFpZ9C1iRM_H9qcNjuJJBiiREH/view?usp=sharing)
 
